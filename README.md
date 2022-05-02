@@ -65,3 +65,6 @@ There are a few more examples available that can directly be run using the [bind
 - [ImageMagick](https://www.imagemagick.org)
 
 Make sure that you have `ROOT` in your `$PYTHONPATH` and that the `convert` command is available by adding its location to your `$PATH` if needed.
+
+Link to my binder SUS-21-002
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akanugan/hepdata_lib/HEAD)
