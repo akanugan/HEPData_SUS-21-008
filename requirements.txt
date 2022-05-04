@@ -3,3 +3,4 @@ PyYAML>4.*
 future
 six
 hepdata-validator>=0.3.2
+ipython-genutils>0.2.0
