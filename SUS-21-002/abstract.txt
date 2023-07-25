@@ -1,7 +1,0 @@
-Results showing the search for direct production of charginos and neutralinos via electroweak interactions.
-The results are based on data from proton-proton collisions at a center-of-mass energy of $13~\mathrm{TeV}$ collected with the CMS detector at the LHC, corresponding to an integrated luminosity of $137~\mathrm{fb}^{-1}$.
-The search considers final states with large missing transverse momentum and pairs of hadronically decaying bosons WW, WZ, and WH, where H is the Higgs boson.
-These bosons are identified using novel algorithms.
-No significant excess of events is observed relative to the expectations from the standard model.
-Limits at the 95\% confidence level are placed on the cross section for production of mass-degenerate wino-like supersymmetric particles $\widetilde{\chi}_{1}^{\pm}$ and $\widetilde{\chi}_{2}^{0}$, and mass-degenerate higgsino-like supersymmetric particles $\widetilde{\chi}_{1}^{\pm}$, $\widetilde{\chi}_{2}^{0}$, and $\widetilde{\chi}_{3}^{0}$.
-In the limit of a nearly-massless lightest supersymmetric particle $\widetilde{\chi}_{1}^{0}$, wino-like particles with masses up to 870 and $960~\mathrm{GeV}$ are excluded in the cases of $\widetilde{\chi}_{2}^{0}\to\mathrm{Z}\widetilde{\chi}_{1}^{0}$ and $\widetilde{\chi}_{2}^{0}\to\mathrm{H}\widetilde{\chi}_{1}^{0}$, respectively, and higgsino-like particles are excluded between 300 and $650~\mathrm{GeV}$.
