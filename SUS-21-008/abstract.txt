@@ -1,9 +1,4 @@
 A combination of several searches for the electroweak production of winos, binos, higgsinos, and sleptons is presented.  
-All searches use proton-proton collision data at $\sqrt{s}=13\ensuremath{\ \text{Te\hspace{-.08em}V}}\xspace$ recorded with the CMS detector at the LHC during years 2016-2018. The analysed data set corresponds to an integrated luminosity of 137\ensuremath{\ \text{fb}^{-1}}\xspace. The results are interpreted in simplified models of chargino-neutralino or neutralino pair production. In addition to the previously published searches,
-the combination includes results from an updated version of
-%% two significant updates are made to
-the search targeting events with two soft leptons and missing transverse momentum.
-A parametric signal extraction is introduced to enhance the sensitivity to each signal hypothesis, and the signal selection is optimized to search for sleptons under the assumption of compressed spectra.
-%% The first improvement is the introduction of a parametric signal extraction procedure where a targeted binning is created for each signal hypothesis, leading to an increase in sensitivity.
-%% As the second improvement, the said search has now been extended to slepton pair production to enhance the sensitivity of the combination to production of sleptons under the compressed mass spectra scenario.
-In addition to the models previously considered, the results of the combination are interpreted in a scenario where neutralinos and charginos in a mass-degenerate higgsino triplet are produced and decay to SM bosons and a bino-like LSP. 
+All searches use proton-proton collision data at $\sqrt{s}=13~\mathrm{TeV}$ recorded with the CMS detector at the LHC during years 2016-2018. The analysed data set corresponds to an integrated luminosity of $137~\mathrm{fb}^{-1}$. The results are interpreted in simplified models of chargino-neutralino or neutralino pair production. In addition to the previously published searches,
+the combination includes results from an updated version of the search targeting events with two soft leptons and missing transverse momentum.
+A parametric signal extraction is introduced to enhance the sensitivity to each signal hypothesis, and the signal selection is optimized to search for sleptons under the assumption of compressed spectra. In addition to the models previously considered, the results of the combination are interpreted in a scenario where neutralinos and charginos in a mass-degenerate higgsino triplet are produced and decay to SM bosons and a bino-like LSP. 
